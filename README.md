@@ -32,7 +32,9 @@ This app have three stones this stones represend the tri different things , LOVE
 
 # Social
   [Linkedin](https://www.linkedin.com/in/serdarakcay/)
+  
   [Github](https://github.com/srdrakcay)
+  
   [Google Play](https://play.google.com/store/apps/developer?id=Serdar+Ak%C3%A7ay)
   
 
