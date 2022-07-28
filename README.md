@@ -11,6 +11,9 @@ In this application you can learn your daily horoscope and and with a stone of y
 - FirebaseAuth
 - Navigation Component
 - Courotines
+- Glide
+- ssp-sdp
+
 
 # Secreens
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/rwipvmm.png)
