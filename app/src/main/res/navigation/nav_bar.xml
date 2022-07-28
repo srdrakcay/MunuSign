@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_bar"
+    app:startDestination="@id/homeFragment2">
+
+    <fragment
+        android:id="@+id/homeFragment2"
+        android:name="com.serdar.finalproject.view.bottombar.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment2_to_horoscopesFragment"
+            app:destination="@id/horoscopesFragment"
+            app:popUpTo="@id/homeFragment2"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/risingFragment2"
+        android:name="com.serdar.finalproject.view.rising.RisingFragment"
+        android:label="fragment_rising"
+        tools:layout="@layout/fragment_rising" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.serdar.finalproject.view.bottombar.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/horoscopesFragment"
+        android:name="com.serdar.finalproject.view.bottombar.HoroscopesFragment"
+        android:label="fragment_horoscopes"
+        tools:layout="@layout/fragment_horoscopes" />
+    <fragment
+        android:id="@+id/dailyFragment"
+        android:name="com.serdar.finalproject.fragments.DailyFragment"
+        android:label="fragment_daily"
+        tools:layout="@layout/fragment_daily" />
+</navigation>

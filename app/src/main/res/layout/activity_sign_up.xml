@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDD9D9"
+    tools:context=".view.login.SignUpActivity">
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="@dimen/_200sdp"
+
+        android:layout_height="@dimen/_200sdp"
+        android:src="@drawable/login"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout"
+        style="@style/Widget.Material3.AutoCompleteTextView.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:hint="@string/e_mail"
+        android:textColorHint="@color/black"
+        app:boxCornerRadiusBottomEnd="@dimen/_6sdp"
+        app:boxCornerRadiusBottomStart="@dimen/_6sdp"
+        app:boxCornerRadiusTopEnd="@dimen/_6sdp"
+        app:boxCornerRadiusTopStart="@dimen/_6sdp"
+        app:boxStrokeColor="#D87979"
+        app:boxStrokeWidth="0sp"
+        app:endIconMode="clear_text"
+        app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+        app:hintTextColor="#D87979"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView15"
+        app:startIconDrawable="@drawable/mail_box">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailgiris"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_48sdp"
+            android:backgroundTint="@color/white"
+            android:textSize="@dimen/_10sdp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout2"
+        style="@style/Widget.Material3.AutoCompleteTextView.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:hint="@string/password"
+        android:textColorHint="@color/black"
+        app:boxCornerRadiusBottomEnd="@dimen/_6sdp"
+        app:boxCornerRadiusBottomStart="@dimen/_6sdp"
+        app:boxCornerRadiusTopEnd="@dimen/_6sdp"
+        app:boxCornerRadiusTopStart="@dimen/_6sdp"
+        app:boxStrokeColor="#D87979"
+        app:boxStrokeWidth="0sp"
+        app:endIconMode="password_toggle"
+        app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+        app:hintTextColor="#D87979"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout"
+        app:startIconDrawable="@drawable/pass_lock">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailgirissifre"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_48sdp"
+            android:backgroundTint="@color/white"
+            android:inputType="textPassword"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textSize="@dimen/_10sdp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/textInputLayout1"
+        style="@style/Widget.Material3.AutoCompleteTextView.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_10sdp"
+        android:layout_marginEnd="@dimen/_10sdp"
+        android:hint="@string/password"
+        android:textColorHint="@color/black"
+        app:boxCornerRadiusBottomEnd="@dimen/_6sdp"
+        app:boxCornerRadiusBottomStart="@dimen/_6sdp"
+        app:boxCornerRadiusTopEnd="@dimen/_6sdp"
+        app:boxCornerRadiusTopStart="@dimen/_6sdp"
+        app:boxStrokeColor="#D87979"
+        app:boxStrokeWidth="0sp"
+        app:endIconMode="password_toggle"
+        app:hintTextAppearance="@style/TextAppearance.AppCompat.Small"
+        app:hintTextColor="#D87979"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout2"
+        app:startIconDrawable="@drawable/pass_lock">
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/emailgiristext"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_48sdp"
+            android:backgroundTint="@color/white"
+            android:inputType="textPassword"
+            android:textAppearance="@style/TextAppearance.AppCompat.Small"
+            android:textSize="@dimen/_10sdp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_30sdp"
+        android:backgroundTint="#D87979"
+        android:paddingLeft="@dimen/_30sdp"
+        android:paddingRight="@dimen/_30sdp"
+        android:text="@string/sign_up"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="@dimen/_10ssp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textInputLayout1" />
+
+
+    <Button
+        android:id="@+id/button7"
+        android:stateListAnimator="@null"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:shadowColor="#EDD9D9"
+        android:layout_marginTop="34dp"
+        android:layout_marginBottom="28dp"
+        android:backgroundTint="#EDD9D9"
+        android:text="@string/f_you_have_an_account_sign_in"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_9sdp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button6" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

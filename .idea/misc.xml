@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout-v28/activity_detail.xml" value="0.3625" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_daily.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_detail.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_home_page.xml" value="0.23314606741573032" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_main.xml" value="0.322463768115942" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_sign_in.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/activity_sign_up.xml" value="0.23088455772113944" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_daily.xml" value="0.32382246376811596" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_detail.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_first.xml" value="0.1" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_home.xml" value="0.12797619047619047" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_home_screen.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_horoscope.xml" value="0.26856884057971014" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_horoscopes.xml" value="0.1037344398340249" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_profile.xml" value="0.3378623188405797" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_rising.xml" value="0.2104499274310595" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_second_screen.xml" value="0.10504201680672269" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_third_screen.xml" value="0.33" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/layout/fragment_view_pager.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/menu/nav_bar.xml" value="0.23055555555555557" />
+        <entry key="..\:/Users/user/FinalProject/app/src/main/res/menu/nav_barmenu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

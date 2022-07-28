@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "790849660123",
+    "project_id": "firstapplogin-a78f3",
+    "storage_bucket": "firstapplogin-a78f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790849660123:android:cb932059e05ff65bd618fe",
+        "android_client_info": {
+          "package_name": "com.serdar.finalproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWGVkYZAOYSNaUhxQjljFi06aM74zGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790849660123:android:c8f80bd0f31f3e03d618fe",
+        "android_client_info": {
+          "package_name": "com.serdar.firstapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790849660123-uc21i5mpm6hjoet1fmnht85dc73nbuuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.serdar.firstapp",
+            "certificate_hash": "188533ba1fc37e1a7ae632b584536a2a9c573c08"
+          }
+        },
+        {
+          "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWGVkYZAOYSNaUhxQjljFi06aM74zGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790849660123:android:06aac137d3abbc01d618fe",
+        "android_client_info": {
+          "package_name": "com.serdar.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWGVkYZAOYSNaUhxQjljFi06aM74zGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790849660123:android:f3b82aabe1c11defd618fe",
+        "android_client_info": {
+          "package_name": "com.serdar.onboardingscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFWGVkYZAOYSNaUhxQjljFi06aM74zGYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790849660123-fh51tcc1v42jfuj4mv59s1aee1ckst3q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
