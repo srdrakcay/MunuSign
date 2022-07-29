@@ -13,6 +13,7 @@ In this application you can learn your daily horoscope and and with a stone of y
 - Courotines
 - Glide
 - ssp-sdp
+- ViewPager 2
 
 
 # Secreens
