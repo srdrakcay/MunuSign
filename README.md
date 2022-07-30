@@ -22,7 +22,7 @@ In this application you can learn your daily horoscope and and with a stone of y
 ![Uygulama Ekran Görüntüsü](https://i.hizliresim.com/hm4mlhd.png)
 
 # About
-I'm trying to learn Kotlin more than 3 month. I made this app for tying to learn much more. İn this app you can your horoscope detail like ;
+I'm trying to learn Kotlin more than 3 months. I made this app for trying to learn much more. İn this app you can your horoscope detail like ;
 - Description(About daily)
 - Color(Daily color)
 - Compatibility
